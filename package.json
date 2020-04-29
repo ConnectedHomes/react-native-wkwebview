@@ -46,7 +46,9 @@
     "fbjs": "^0.8.3"
   },
   "description": "React Native WKWebView for iOS",
-  "devDependencies": {},
+  "devDependencies": {
+    "react-native-webview": "9.4.0"
+  },
   "gitHead": "5c1809c67ca87e531727b51f751db0e71dfebf9b",
   "homepage": "https://github.com/CRAlpha/react-native-wkwebview",
   "keywords": [
