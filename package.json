@@ -46,9 +46,7 @@
     "fbjs": "^0.8.3"
   },
   "description": "React Native WKWebView for iOS",
-  "devDependencies": {
-    "react-native-webview": "9.4.0"
-  },
+  "devDependencies": {},
   "gitHead": "5c1809c67ca87e531727b51f751db0e71dfebf9b",
   "homepage": "https://github.com/CRAlpha/react-native-wkwebview",
   "keywords": [
@@ -63,7 +61,10 @@
   "name": "react-native-wkwebview-reborn",
   "optionalDependencies": {},
   "peerDependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.6.0",
+    "react": "16.11.0",
+    "react-native": ">= 0.62.0",
+    "react-native-webview": "^9.4.0"
   },
   "pre-push#master": [
     "lint"
