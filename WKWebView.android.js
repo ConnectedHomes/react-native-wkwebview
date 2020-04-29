@@ -1,7 +1,7 @@
 'use strict';
 
 import {
-  WebView,
+  WebView
 } from 'react-native-webview';
 
 export default WebView;
